@@ -1,4 +1,11 @@
-to prepare run:
+# Speroteck Colleagues game
+
+### Setup environment
+```
 npm install
-to start server run
+```
+
+### Start server
+```
 gulp
+```

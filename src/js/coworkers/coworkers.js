@@ -8,7 +8,7 @@ var coworkers = {
 
         //  Player physics properties. Give the little guy a slight bounce.
         dude.body.bounce.y = 0;
-        dude.body.gravity.y = 0;
+        dude.body.gravity.y = 10;
         dude.body.collideWorldBounds = true;
 
         //  Our two animations, walking left and right.
